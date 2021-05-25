@@ -1,3 +1,7 @@
+To test this app login 
+email: saloo.thawar@gmail.com
+Pass: password
+and add todo and delete
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
